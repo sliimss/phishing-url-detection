@@ -2,7 +2,11 @@
 Protect users from deceptive websites. Analyze URLs with ML models to identify potential phishing attacks. Open-source project for enhanced online security.
 
 
+
 # Phishing URL Detection using Machine Learning
+
+## Summary
+Detect phishing attacks using ML-based URL analysis. Enhance cybersecurity and protect users from deceptive websites. Building AI course project.
 
 ## Introduction
 
@@ -48,8 +52,9 @@ We extend our gratitude to NearSecure for providing the opportunity to work on t
 
 ## Contact
 
-For any questions or suggestions, please contact me [salmaberradajob@gmail.com]. Your feedback is valuable to us!
+For any questions or suggestions, please contact [salmaberradajob@gmail.com]. Your feedback is valuable to us!
 
 ## Disclaimer
 
 While this system aims to enhance security, it may not be foolproof. Always exercise caution when accessing unfamiliar URLs to safeguard against phishing attacks.
+
